@@ -1,0 +1,3 @@
+/home/tavo/Documentos/Test/cmake-build-debug/CMakeFiles/Test.dir
+/home/tavo/Documentos/Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tavo/Documentos/Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
